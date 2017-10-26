@@ -1,0 +1,1 @@
+connection = {"mysql_connection": "mysql://k377o8ziz653jv7r:o941a49u4qhwie1g@xq7t6tasopo9xxbs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/p90rruxsfp5cod94"}
